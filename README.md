@@ -19,7 +19,6 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I enjoy swimming
 - 🌱 I’m currently learning TypeScript and GraphQL.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and junior-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
