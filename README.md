@@ -22,7 +22,9 @@
 - 🌱 I’m currently learning TypeScript and GraphQL.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and junior-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can view my  [resume](https://drive.google.com/file/d/1rlu-Wr640yq8XITmlA1rSYlUpnAWRaSX/view?usp=drivesdk) and contact me by emailing ejemenusoh@gmail.com
+- 📫 You can contact me by emailing ejemenusoh@gmail.com
+   <!-- view my  [resume](https://drive.google.com/file/d/1rlu-Wr640yq8XITmlA1rSYlUpnAWRaSX/view?usp=drivesdk)  -->
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,3 +46,5 @@
 
 ### :fire: My Stats :
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ememusoh&layout=compact&theme=vision-friendly-dark" alt="Ememusoh's GitHub stats" />
+
+
