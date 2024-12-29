@@ -13,35 +13,31 @@
 
 
 
-:woman_technologist: I'm a passionate junior front-end developer and UI designer with a strong desire to learn and grow in a collaborative team environment. I specialize in creating pixel-perfect designs and handling cross-browser compatibility issues. I love combining design and development to create exceptional user experiences.
+:woman_technologist: I am a dedicated machine learning researcher focused on applying advanced algorithms to tackle real-world challenges.  I have extensive experience in developing cutting-edge solutions using machine learning techniques. I thrive on collaboration and innovation. My goal is to drive meaningful impact through artificial intelligence, and I welcome connections with like-minded professionals to explore how we can shape the future together
 
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: She/her
-- 🌱 I’m currently learning TypeScript and GraphQL.
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and junior-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing ejemenusoh@gmail.com
-   <!-- view my  [resume](https://drive.google.com/file/d/1rlu-Wr640yq8XITmlA1rSYlUpnAWRaSX/view?usp=drivesdk)  -->
+😊 Pronouns: She/her
+🌱 I’m seeking help with open-source projects, hackathons, internships, and junior-level opportunities.
+💼 Job interests: Machine Learning Engineer, or Front-End Developer.
+📫 You can contact me by emailing usohejemen@gmail.com.
+   <!-- view my  [resume](https://drive.google.com/file/ d/1rlu-Wr640yq8XITmlA1rSYlUpnAWRaSX/view?usp=drivesdk)  -->
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C Sharp" alt="C Sharp" width="40" height="40"/>&nbsp;
-<img src="https://github.com/styled-components/brand/blob/master/styled-components.svg" title="Styled Components" alt="Styled Components" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-<img src="https://github.com/Wilberson-Roberto/Wilberson-Roberto/blob/main/img/coreldraw.svg" title="Corel Draw" alt="Corel draw" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+:hammer_and_wrench: Languages and Tools :
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
 </div>
-
 ---
 
 ### :fire: My Stats :
