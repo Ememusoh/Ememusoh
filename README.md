@@ -19,8 +19,11 @@
 **Here's a quick summary about me**:
 
 😊 Pronouns: She/her
+
 🌱 I’m seeking help with open-source projects, hackathons, internships, and junior-level opportunities.
-💼 Job interests: Machine Learning Engineer, or Front-End Developer.
+
+💼 Job interests: Machine Learning Engineer,  Front-End Developer.
+
 📫 You can contact me by emailing usohejemen@gmail.com.
    <!-- view my  [resume](https://drive.google.com/file/ d/1rlu-Wr640yq8XITmlA1rSYlUpnAWRaSX/view?usp=drivesdk)  -->
 
